@@ -1,4 +1,4 @@
-Who.php
+Who.php [![Build Status](https://travis-ci.org/RaedsLab/Who.php.svg)](https://travis-ci.org/RaedsLab/Who.php)
 =============
 
 Helps detect the user's ISP, Country and if they are using TOR at the PHP level
