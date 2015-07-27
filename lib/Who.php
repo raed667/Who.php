@@ -56,12 +56,6 @@ class Who {
         return $this->tor;
     }
 
-    public function getBrowser() {
-        require './lib/Browser.php';
-        $browser = new Browser();
-        return $browser;
-    }
-
     public function __construct() {
         $this->findUserIP();
         $this->findISP();
